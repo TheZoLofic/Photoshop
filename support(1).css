@@ -1,0 +1,24 @@
+h1{
+	font-family: Impact;
+	font-size: 45px;
+	color: #151380;
+	text-align: center;
+}
+
+h2{
+	font-family: Impact;
+	color: #0A1E3D;
+	text-align: center;
+	font-size: 20px;
+}
+
+.small{
+	font-size: 18px;
+}
+
+.uppercase{
+	text-transform: uppercase;
+}
+.small.uppercase{
+	color: #160D64;
+}
